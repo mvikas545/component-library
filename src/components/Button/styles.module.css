@@ -1,0 +1,17 @@
+.btn {
+  flex: 1;
+  flex-direction: row;
+}
+.btn button {
+  width: 100%;
+  border: 2px white solid;
+  border-radius: 6px;
+  font-size: 17px;
+  line-height: 1;
+  padding: 0 10px;
+  color: #fff;
+  font-weight: 500;
+}
+.btn button:hover {
+  cursor: pointer;
+}
